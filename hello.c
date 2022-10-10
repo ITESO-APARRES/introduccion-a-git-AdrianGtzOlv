@@ -1,3 +1,5 @@
+// Nombre: Adrian Ezequiel
+
 #include <stdio.h>
 #include <stdlib.h>
 
